@@ -1,0 +1,61 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>LFT Jores New Business</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 20px;
+      color: #333;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      margin-top: 20px;
+      padding: 15px;
+      background-color: #fff;
+      border-radius: 8px;
+    }
+    footer {
+      margin-top: 30px;
+      text-align: center;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>LFT Jores New Business</h1>
+  <p>Marketing & Création de contenu digital</p>
+</header>
+
+<section>
+  <h2>Nos Services</h2>
+  <ul>
+    <li>Montages vidéo professionnels pour pubs</li>
+    <li>Création de contenu pour réseaux sociaux</li>
+    <li>Services pour entreprises et comptes pro</li>
+    <li><em>Et bien d'autres à venir...</em></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+[08/01 à 14:59] ChatGPT: <p>Email : <a href="mailto:lftjores@gmail.com">lftjores@gmail.com</a></p>
+  <p>Téléphone : +241 065811471</p>
+</section>
+
+<footer>
+  <p>© 2024 LFT Jores New Business</p>
+</footer>
+
+</body>
+</html>
